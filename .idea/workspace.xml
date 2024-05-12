@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fafa100-8888-4ff0-a50e-d6c0b3cc6223" name="Changes" comment="" />
+    <list default="true" id="2fafa100-8888-4ff0-a50e-d6c0b3cc6223" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/myapp/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/myapp/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/myapp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/myapp/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GingerPrzemek"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GingerPrzemek/ShoppingLister.git",
+    "accountId": "fbe3efa5-57b3-4008-9f1b-ec60180c4aa3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
