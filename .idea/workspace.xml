@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fafa100-8888-4ff0-a50e-d6c0b3cc6223" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/myapp/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/myapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/myapp/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/myapp/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/myapp/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2fafa100-8888-4ff0-a50e-d6c0b3cc6223" name="Changes" comment="Hello world">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/myapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/myapp/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,33 +16,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GingerPrzemek"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GingerPrzemek&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GingerPrzemek/ShoppingLister.git",
-    "accountId": "fbe3efa5-57b3-4008-9f1b-ec60180c4aa3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GingerPrzemek/ShoppingLister.git&quot;,
+    &quot;accountId&quot;: &quot;fbe3efa5-57b3-4008-9f1b-ec60180c4aa3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gMUTCfjJtrFXYy7uW8g9Wde3cC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -91,7 +83,31 @@
       <option name="presentableId" value="Default" />
       <updated>1715506945651</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello world">
+      <option name="closed" value="true" />
+      <created>1715521055070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715521055070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello world" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
